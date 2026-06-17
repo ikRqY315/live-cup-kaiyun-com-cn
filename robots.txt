@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ikRqY315.github.io/live-cup-kaiyun-com-cn/sitemap.xml
